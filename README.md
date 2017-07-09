@@ -23,3 +23,7 @@
 ### Design
 
 ### New tech
+
+### Benchmarking
+- Programmer's Competency matrix http://sijinjoseph.com/programmer-competency-matrix/
+- Developer Road Map https://github.com/kamranahmedse/developer-roadmap
