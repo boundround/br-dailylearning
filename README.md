@@ -5,6 +5,7 @@
 
 ### Videos
 - GraphQL in 30 mins https://youtu.be/UBGzsb2UkeY
+- Learning Ionic https://www.joshmorony.com/category/ionic-tutorials/
 
 ### Javascripts
 - VueJS https://github.com/vuejs/awesome-vue
