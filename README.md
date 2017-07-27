@@ -10,6 +10,7 @@
 ### Javascripts
 - VueJS https://github.com/vuejs/awesome-vue
 - NodeJS Loopback API https://github.com/strongloop/loopback
+- Grab Front End Guide https://github.com/boundround/br-dailylearning.git
 
 ### Algorithms
 - Visualise algorithms https://visualgo.net/en
